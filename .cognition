@@ -1,5 +1,5 @@
 {
-  "cognition_group": "Cognition Runner",
+  "cognition_group": "Cognition Infra",
   "remote_url": "https://github.com/davewd/cognition_runner.git",
   "deployment": {
     "github_workflow_names": []
